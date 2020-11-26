@@ -14,3 +14,4 @@
 - 🔭 I’m currently working on my Master's degree in Computer Enginnering; 
 - 😄 I’m currently looking for a software engineer position;
 - 😄 I will graduate in May 2020 and I have both CPT and OPT available;
+- 🤔 Stay chill and stay healthy！
