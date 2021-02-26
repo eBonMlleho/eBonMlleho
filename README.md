@@ -13,5 +13,5 @@
 -->
 - 🔭 I’m currently working on my Master's degree in Computer Enginnering; 
 - 😄 I’m currently looking for a software engineer position;
-- 😄 I will graduate in May 2020, I will be a part-time student in Spring 2021, and I have both CPT and OPT available;
+- 😄 I will graduate in May 2020;
 - 🤔 Stay chill and stay healthy！
