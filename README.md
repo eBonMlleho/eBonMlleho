@@ -13,5 +13,5 @@
 -->
 - 🔭 I’m currently working on my Master's degree in Computer Enginnering; 
 - 😄 I’m currently looking for a software engineer position;
-- 😄 I will graduate in May 2020;
+- 😄 I will graduate in May 2021;
 - 🤔 Stay chill and stay healthy！
