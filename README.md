@@ -11,7 +11,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my Master's degree in Computer Enginnering; 
-- 😄 I’m currently looking for a software engineer position;
-- 😄 I will graduate in May 2021;
+<!-- - 🔭  -->
+<!-- - 😄 I’m currently looking for a software engineer position; -->
+<!-- - 😄 I will graduate in May 2021; -->
 - 🤔 Stay chill and stay healthy！
